@@ -3,12 +3,6 @@
   <groupId>nl.diviwork</groupId>
   <artifactId>ServerSelector</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <dependencies>
-  	<dependency>
-  		<groupId>org.bukkit</groupId>
-  		<artifactId>bukkit</artifactId>
-  	</dependency>
-  </dependencies>
   <dependencyManagement>
   	<dependencies>
   		<dependency>
